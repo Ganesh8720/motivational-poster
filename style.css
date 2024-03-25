@@ -1,0 +1,25 @@
+/* 2. The text should be white and background black. */
+body{
+    background-color: black;
+    color: white;
+}
+/* 3. Add your own image into the images folder inside assets. It should have a 5px white border. */
+
+img{
+    border: 5px solid rgb(164, 9, 9);
+  
+}
+#d1{
+    margin-top: 85px;
+    margin-left: 70px;
+    text-align: center;
+    
+}
+
+/* 4. The text should be center aligned. */
+#t1{
+    
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+
